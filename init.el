@@ -166,6 +166,7 @@
 (require 'init-rspec-mode)
 (require 'init-feature-mode)
 (require 'init-yasnippet)
+(require 'init-fonts-preferences)
 (require 'init-movement-preferences)
 (require 'init-reveal-in-osx-finder)
 
