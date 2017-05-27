@@ -163,6 +163,7 @@
 ;; Locales (setting them earlier in this file doesn't work in X)
 ;;----------------------------------------------------------------------------
 (require 'init-locales)
+(require 'init-rspec-mode)
 (require 'init-yasnippet)
 (require 'init-movement-preferences)
 (require 'init-reveal-in-osx-finder)
