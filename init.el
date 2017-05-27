@@ -164,6 +164,7 @@
 ;;----------------------------------------------------------------------------
 (require 'init-locales)
 (require 'init-rspec-mode)
+(require 'init-feature-mode)
 (require 'init-yasnippet)
 (require 'init-movement-preferences)
 (require 'init-reveal-in-osx-finder)
