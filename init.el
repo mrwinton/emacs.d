@@ -168,8 +168,8 @@
 ;;----------------------------------------------------------------------------
 ;; Personal settings
 ;;----------------------------------------------------------------------------
-(require 'init-rspec-mode)
-(require 'init-feature-mode)
+(require 'init-powershop-rspec-mode)
+(require 'init-powershop-feature-mode)
 (require 'init-yasnippet)
 (require 'init-ispell)
 (require 'init-fonts-preferences)
