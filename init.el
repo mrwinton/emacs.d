@@ -163,6 +163,11 @@
 ;; Locales (setting them earlier in this file doesn't work in X)
 ;;----------------------------------------------------------------------------
 (require 'init-locales)
+
+
+;;----------------------------------------------------------------------------
+;; Personal settings
+;;----------------------------------------------------------------------------
 (require 'init-rspec-mode)
 (require 'init-feature-mode)
 (require 'init-yasnippet)
