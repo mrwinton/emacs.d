@@ -5,5 +5,6 @@
 (require 'init-mw-yasnippet)
 (require 'init-mw-rspec-mode)
 (require 'init-mw-ispell)
+(require 'init-mw-web-mode)
 
 (provide 'init-local)
