@@ -1,4 +1,7 @@
 (require-package 'reveal-in-osx-finder)
+(require-package 'slim-mode)
+
+(require 'midnight)
 
 (require 'init-mw-fonts)
 (require 'init-mw-movement)
